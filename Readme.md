@@ -444,9 +444,6 @@ mindmap
 
 Optional static image link for markdown or slides (same as header):
 
-```markdown
-![Tamilselvan S](https://github.com/Tamilselvan-S-Cyber-Security/Tamilselvan-S-Cyber-Security/raw/main/images/1747757610488-photoaidcom-cropped.png)
-```
 
 ---
 
