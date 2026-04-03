@@ -48,7 +48,7 @@ https://github.com/Tamilselvan-S-Cyber-Security
 
 ---
 
-## 2. Full project scope (task document)
+## 2. Full project scope 
 
 Below is the scope as defined in the **Intern Platform** task document (summary of all major areas).
 
@@ -111,7 +111,7 @@ Below is the scope as defined in the **Intern Platform** task document (summary 
 
 ---
 
-## 4. Suggested technical architecture (reference)
+## 4. Suggested technical architecture 
 
 Your stack may differ; this is a **logical** reference useful for presentations and security reviews.
 
@@ -144,7 +144,7 @@ Use this section in reviews to show you are not only building features but also 
 
 When asked to present **project progress**, **tasks completed**, and **challenges**:
 
-### 6.1 Progress (about 30 seconds)
+### 6.1 Progress 
 
 - State the **goal** (student–industry internship platform per spec).
 - Say your **current phase** (design / build / integration / test) with **honest** completion hints.
@@ -191,10 +191,7 @@ Use this table for **deep** questions (“what exactly is in scope?”).
 
 ---
 
-## 8. Visual diagrams (Mermaid)
-
-This section explains the **Intern Platform** in **diagram form** using [Mermaid](https://mermaid.js.org/) syntax. **GitHub**, **GitLab**, **Notion**, **Obsidian** (with plugin), and many slide tools render these blocks automatically. If your viewer does not support Mermaid, paste the code into [Mermaid Live Editor](https://mermaid.live/).
-
+## 8. Visual diagrams 
 ### 8.1 System context: who talks to whom
 
 High-level actors and the central web application (matches the presentation SVG “platform context” row).
